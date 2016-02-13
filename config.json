@@ -1,0 +1,10 @@
+{
+  "services":[
+    {
+    "ipv6Host":"nitrogen.purser.it",
+    "ipv4Port":222,
+    "name":"SSH-RPI_V2",
+    "ipv6Port":22
+    }
+  ]
+}
