@@ -7,7 +7,7 @@
         "ipv6Port":22
     },
     {
-        "ipv6Host":"oxygen.pursdder.it",
+        "ipv6Host":"oxygen.purser.it",
         "ipv4Port":452,
         "name":"SSH-rpi_v1",
         "ipv6Port":22
